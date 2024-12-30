@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
-<h2 align="center">Hey! I'm Perla Pawan Phanieswar</h2>
+<h1 align="center">Hey! 👋</h1>
+<h2 align="center">I'm Perla Pawan Phanieswar</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pawanperla&color=green" alt="Profile views" />
